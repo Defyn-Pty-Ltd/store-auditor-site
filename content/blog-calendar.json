@@ -544,7 +544,7 @@
     },
     {
       "day": 42,
-      "status": "pending",
+      "status": "done",
       "slug": "shopify-app-block-performance",
       "category": "performance",
       "primaryKeyword": "Shopify app block performance",
@@ -552,7 +552,8 @@
       "internalLinks": [
         "theme-app-extensions-vs-script-tags",
         "shopify-mobile-speed-7-fixes"
-      ]
+      ],
+      "publishedAt": "2026-10-26T04:55:41.023Z"
     },
     {
       "day": 43,
